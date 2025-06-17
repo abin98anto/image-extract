@@ -54,4 +54,5 @@ export default tseslint.config({
 ```
 
 Pretrained model git hub link: https://github.com/justadudewhohacks/face-api.js-models/tree/master/ssd_mobilenetv1
+
 # image-extract
