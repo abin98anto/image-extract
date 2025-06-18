@@ -4,7 +4,7 @@ import "./App.css";
 
 const PASSPORT_WIDTH = 354;
 const PASSPORT_HEIGHT = 472;
-const PADDING = 50;
+const PADDING = 60;
 
 const App: React.FC = () => {
   const [image, setImage] = useState<string | null>(null);
